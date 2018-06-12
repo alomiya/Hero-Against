@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>dmg</key>
+        <string>伤害总和</string>
+        <key>dps</key>
+        <string>每秒伤害</string>
+        <key>crit</key>
+        <string>总暴击率</string>
+        <key>effect</key>
+        <string>音效</string>
+        <key>music</key>
+        <string>音乐</string>
+    </dict>
+</plist>
